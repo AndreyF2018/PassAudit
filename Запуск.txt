@@ -1,2 +1,3 @@
-PasswordsMonitoring.exe -i hashes.txt -d dictionary_sort.txt -o result\
-PasswordsMonitoring.py -i hashes.txt -d dictionary_sort.txt -o result\
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eec2f4f019994443f5bce0ba3de15938bb199fc066c491705909261cad2cb9f
+size 143
